@@ -1,7 +1,7 @@
 ### Olá eu sou o Caico 👋
 
 - 🔭 Hoje estou trabalhando com front-end
-- 🌱 Estudando Swift
+- 🌱 Linguagem Swift
 
  <div>
   <a href="https://github.com/caicocosta">
